@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: EQSounds |cff00ff00Classic EQ UI Sounds|r
+## Notes: EverQuest-style level-up ding, bag/bank, loot, and equip sounds for 3.3.5a. By DapperDyl.
+## Author: DapperDyl
+## Version: 1.0
+## SavedVariables: EQSoundsDB
+## DefaultState: Enabled
+
+EQSounds.lua
