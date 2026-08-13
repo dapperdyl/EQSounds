@@ -47,7 +47,7 @@
   3. /reload
 
   Compatible with stock UI, ElvUI, and other packs. 
-  If something conflicts, reach out.
+  If something conflicts, reach out @DapperDyl Discord or IGN - Cheesus.
 
 
 --------------------------------------------------------------------------------
